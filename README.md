@@ -1,0 +1,1 @@
+This is a tutorial to the basics of the programming language C.
